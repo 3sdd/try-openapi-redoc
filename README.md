@@ -2,6 +2,7 @@
 
 # ReDocを使ってOpen APIのファイルからドキュメントサイトを作る
 
+URL: <https://3sdd.github.io/try-openapi-redoc/>
 
 前提として、Node.jsはインストール済み。
 
